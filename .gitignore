@@ -1,0 +1,26 @@
+# Pythonの一時ファイル
+__pycache__/
+*.pyc
+
+# 巨大な画像データや入力データ
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+input/
+data/
+output/
+
+# 巨大なモデルファイル
+*.pt
+*.onnx
+*.weights
+
+# 仮想環境（もしあれば）
+venv/
+env/
+
+# OSのシステムファイル
+.DS_Store
+Thumbs.db

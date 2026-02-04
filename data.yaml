@@ -1,0 +1,5 @@
+train: C:/Users/TakedaYuya/Landmark_Gaihouzu_new/data/images/train
+val: C:/Users/TakedaYuya/Landmark_Gaihouzu_new/data/images/val
+
+nc: 7
+names: ['shrine', 'temple', 'rice_field','tea_field','mulberry_field','school','orchard']
