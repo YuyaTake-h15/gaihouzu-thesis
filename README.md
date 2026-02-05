@@ -98,3 +98,11 @@ The system utilizes deep learning models to detect map symbols and extract bound
 
 ## License
 [MIT License](LICENSE) - feel free to use this code for academic purposes.
+
+## Acknowledgements
+This project utilizes the **DexiNed** model for edge detection.
+We would like to thank the authors for their excellent work.
+
+* **DexiNed Repository:** [https://github.com/xavysp/DexiNed](https://github.com/xavysp/DexiNed)
+* **Citation:**
+    > Xavier Soria, Edgar Riba, and Angel Sappa. "Dense Extreme Inception Network: Towards a Robust CNN Model for Edge Detection." 2020 IEEE Winter Conference on Applications of Computer Vision (WACV).

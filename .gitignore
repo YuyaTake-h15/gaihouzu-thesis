@@ -24,3 +24,5 @@ env/
 # OSのシステムファイル
 .DS_Store
 Thumbs.db
+
+*.pth
